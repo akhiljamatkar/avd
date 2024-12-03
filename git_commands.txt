@@ -1,3 +1,9 @@
 gt add.
 git commit
 git init
+-------------------
+git branch "new"
+git checkout new
+git add .
+git commit -m 'new add'
+git push origin
